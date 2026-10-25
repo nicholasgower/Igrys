@@ -5,4 +5,5 @@
 .idea/
 
 # Build artifacts
-Build.zip.claude/
+Build.zip
+.claude/
